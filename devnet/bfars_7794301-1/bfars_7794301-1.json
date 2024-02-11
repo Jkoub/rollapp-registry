@@ -2,7 +2,7 @@
   "chainId": "bfars_7794301-1",
   "chainName": "B_FARS",
   "rpc": "http://109.123.254.27:26657",
-  "rest": ""http://109.123.254.27:1317",
+  "rest": "http://109.123.254.27:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
